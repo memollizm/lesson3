@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\Ders3\Ders3\bin\Debug\Ders3.exe.config
+C:\Users\PC\source\repos\Ders3\Ders3\bin\Debug\Ders3.exe
+C:\Users\PC\source\repos\Ders3\Ders3\bin\Debug\Ders3.pdb
+C:\Users\PC\source\repos\Ders3\Ders3\obj\Debug\Ders3.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Ders3\Ders3\obj\Debug\Ders3.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\Ders3\Ders3\obj\Debug\Ders3.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Ders3\Ders3\obj\Debug\Ders3.exe
+C:\Users\PC\source\repos\Ders3\Ders3\obj\Debug\Ders3.pdb
